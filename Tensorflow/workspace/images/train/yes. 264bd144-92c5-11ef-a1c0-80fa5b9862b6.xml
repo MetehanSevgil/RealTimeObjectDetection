@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collactedimages</folder>
+	<filename>yes. 264bd144-92c5-11ef-a1c0-80fa5b9862b6.jpg</filename>
+	<path>C:\Users\Metehan Sevgil\Desktop\KODLAR\Phyton\RealTimeObjectDetection\Tensorflow\workspace\images\collactedimages\yes. 264bd144-92c5-11ef-a1c0-80fa5b9862b6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>192</xmin>
+			<ymin>226</ymin>
+			<xmax>367</xmax>
+			<ymax>377</ymax>
+		</bndbox>
+	</object>
+</annotation>

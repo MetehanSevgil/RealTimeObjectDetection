@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collactedimages</folder>
+	<filename>hello. f26778d6-92c4-11ef-afba-80fa5b9862b6.jpg</filename>
+	<path>C:\Users\Metehan Sevgil\Desktop\KODLAR\Phyton\RealTimeObjectDetection\Tensorflow\workspace\images\collactedimages\hello. f26778d6-92c4-11ef-afba-80fa5b9862b6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>273</ymin>
+			<xmax>311</xmax>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+</annotation>
